@@ -1,4 +1,5 @@
 # docker-compose-laravel
+FOR USE WITH https://github.com/rbaskam/nwi-docker-multi-app
 A pretty simplified Docker Compose workflow that sets up a LEMP network of containers for local Laravel development. Using NGINX Proxy and Pretty URLS
 
 
